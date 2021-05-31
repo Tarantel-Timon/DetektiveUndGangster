@@ -29,4 +29,12 @@ public class Person
     {
         return alter; 
     } 
+   public void setname(name){
+      this.name = name;
+   }
+   
+   public String getname(){
+      return this.name;
+   }
+   
 }
